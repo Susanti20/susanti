@@ -1,0 +1,2 @@
+# susanti
+uts aplikasi bisnis
